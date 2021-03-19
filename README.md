@@ -1,2 +1,1 @@
-# retain-treeview-nodes-expand-and-collapse-state-in-xamarin
-How to retain the TreeView nodes expand and collapse state while navigating in Xamarin.Forms
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12467/how-to-keep-the-treeview-nodes-expanded-and-collapsed-states-while-navigating-in-xamarin)**
